@@ -2,21 +2,23 @@
 //     return a + b;
 // }
 
-// module.exports = add; 
+// module.exports = add;
 
-const add = (a,b) => { return a + b; }
+const add = (a, b) => {
+  return a + b;
+};
 
-module.exports = add; 
+module.exports = add;
 
-//add a file multiply.js with the following code: 
+//add a file multiply.js with the following code:
 
 // function multiply(a, b) {
 //     return a + b;
 //   }
-  
+
 //   module.exports = multiply;
 
-//then in the console do the maths: 
+//then in the console do the maths:
 
 // const add = require('./add.js');
 // const multiply = require('./multiply.js');

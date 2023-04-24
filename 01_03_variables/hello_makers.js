@@ -1,4 +1,4 @@
-const greeting = 'Hello ';
-const name = 'Makers';
+const greeting = "Hello ";
+const name = "Makers";
 
-console.log (greeting + name);
+console.log(greeting + name);
