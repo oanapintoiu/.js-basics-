@@ -1,3 +1,6 @@
+// https://github.com/makersacademy/javascript-fundamentals/blob/main/bites/12_classes.md#exercise-1
+
+
 class UserBase {
   constructor(users) {
     this.users = users;
@@ -11,7 +14,7 @@ class UserBase {
     return this.users.map((user) => user.getName());
   }
 
-  getIntro() {
+  getIntroductions() {
     return this.users.map((user) => user.getIntroduction());
   }
 }

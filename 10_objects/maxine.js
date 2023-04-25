@@ -1,3 +1,5 @@
+// https://github.com/makersacademy/javascript-fundamentals/blob/main/bites/10_objects.md#exercise
+
 const person = {
     name: 'Maxine',
     age: 32,

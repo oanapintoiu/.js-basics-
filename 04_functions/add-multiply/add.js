@@ -1,20 +1,10 @@
-// function add(a,b) {
-//     return a + b;
-// }
-
-// module.exports = add;
-
 const add = (a, b) => {
   return a + b;
 };
 
 module.exports = add;
 
-//add a file multiply.js with the following code:
-
-// function multiply(a, b) {
-//     return a + b;
-//   }
+//add a file multiply
 
 //   module.exports = multiply;
 

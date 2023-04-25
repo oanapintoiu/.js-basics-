@@ -1,3 +1,7 @@
+// Challenge
+
+// https://github.com/makersacademy/javascript-fundamentals/blob/main/bites/11_array_operations.md#challenge
+
 const namesAndDiscounts = [
   { name: "Anna", discount: 50 },
   { name: "Laura", discount: 40 },

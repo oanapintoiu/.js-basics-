@@ -1,3 +1,7 @@
+// Challenge
+
+// https://github.com/makersacademy/javascript-fundamentals/blob/main/bites/09_arrays.md#challenge
+
 const addToBatch = (array, number) => {
   if (array.length >= 5) {
     return array;

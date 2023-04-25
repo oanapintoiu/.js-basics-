@@ -1,3 +1,23 @@
+
+// To work on this exercise, it is important to think of functions
+//  as regular values (they can be passed around just like any other variable).
+//   Revisit the previous section if this wasn't clear.
+
+// Declare a function executeAfterDelay which calls the given function after the given delay in seconds:
+
+// const printHello = () => {
+//   console.log('Hello!');
+// }
+
+// executeAfterDelay(5, printHello);
+
+// After about 5 seconds, you should see the message being logged
+
+// Hello!
+
+
+
+
 const executeAfterDelay = (delayInSeconds, callback) => {
   const delayInMilliseconds = delayInSeconds * 1000;
   setTimeout(callback, delayInMilliseconds);

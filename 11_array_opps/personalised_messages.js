@@ -1,3 +1,5 @@
+// https://github.com/makersacademy/javascript-fundamentals/blob/main/bites/11_array_operations.md#exercise---personalised-messages
+
 const names = ["Anna", "Laura", "Josh", "Min", "Karla"];
 
 // const generateMessages = (names) => {
